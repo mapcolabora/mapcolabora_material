@@ -1,4 +1,4 @@
-#Imágenes Mapatón
+# Imágenes Mapatón
 
 Imágenes que muestran el progreso del mapeo durante el Mapatón Humanitario de la Semana de la Geografía
 
