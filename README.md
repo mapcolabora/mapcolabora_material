@@ -4,4 +4,4 @@ Este repositorio es para incluir material público del grupo de Mapeado Colabora
 
 En pruebas
 
-CC-BY-SA 2016 Grupo de Mapeado Colaborativo 
+CC-BY-SA 2017 Grupo de Mapeado Colaborativo 
